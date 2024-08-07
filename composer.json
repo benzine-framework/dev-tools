@@ -19,7 +19,6 @@
     "ext-dom": "*",
     "ext-tokenizer": "*",
     "ext-xmlwriter": "*",
-
     "beberlei/assert": "^3.3",
     "brianium/paratest": "^7",
     "clue/commander": "^v1.3.0",
